@@ -1,0 +1,2 @@
+# squareup
+subdomain takeover
